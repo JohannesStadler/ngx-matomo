@@ -1,3 +1,11 @@
+# Forked from Arnaud73/ngx-matomo as the urls piwik.php/piwik.js are now matomo.php/matomo.js...
+
+...otherwise it's the same code!
+
+---
+---
+---
+
 # ngx-Matomo 
 
 [![Build Status](https://travis-ci.com/Arnaud73/ngx-matomo.svg?branch=master)](https://travis-ci.com/Arnaud73/ngx-matomo)
