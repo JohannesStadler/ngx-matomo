@@ -1,5 +1,5 @@
 {
-  "name": "ngx-matomo",
+  "name": "@johnnybgod/ngx-matomo",
   "version": "0.1.4",
   "author": "Arnaud Mouronval <arnaud.mouronval@gmail.com>",
   "description": "Matomo (aka. Piwik) web analytics for applications based on Angular 5, 6, 7 & 8.",
@@ -14,7 +14,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arnaud73/ngx-matomo.git"
+    "url": "git+https://github.com/JohannesStadler/ngx-matomo.git"
   },
   "scripts": {
     "ng": "ng",
@@ -71,5 +71,10 @@
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
   },
-  "standard-version": {}
+  "standard-version": {},
+  "bugs": {
+    "url": "https://github.com/JohannesStadler/ngx-matomo/issues"
+  },
+  "homepage": "https://github.com/JohannesStadler/ngx-matomo#readme",
+  "main": "index.js"
 }
